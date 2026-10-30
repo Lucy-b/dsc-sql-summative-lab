@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 .DS_Storeim.db
 im.db.zip
+im.db
+im.db.zip
